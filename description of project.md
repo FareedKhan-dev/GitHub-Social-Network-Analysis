@@ -1921,5 +1921,3 @@ nx.draw(G, node_size=nodes_sizes, node_color=nodes_color, edge_color='#dce8e0')
 
     
 ![png](GitHub%20Social%20Network%20Code%20File_43_1.png)
-    
-
